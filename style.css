@@ -23,6 +23,9 @@ body, header, h1, div, button{
     height: 30px;
     border: 1px solid black;
 }
+.pixel:hover{
+    background-color:#ccc;
+}
 
 .tableElem{
     width: 300px;
